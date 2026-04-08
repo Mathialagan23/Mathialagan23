@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mathialagan</h1>
-<h3 align="center">Full Stack Web Developer | MERN | Cloud & DevOps Enthusiast 🚀</h3>
+<h3 align="center">Cloud & DevOps Engineer (In Progress) | Full Stack Developer 🚀</h3>
 
 ---
 
 ### 🌟 About Me
-- 💻 Full-stack developer focused on building **modern web applications**
-- 🌱 Currently learning and improving in **Cloud, DevOps, and scalable deployments**
-- ☁️ Experience deploying apps using **Google Cloud Run, Firebase Hosting, Docker, Vercel, and Render**
-- 🔭 Working on **MERN stack projects and cloud-based applications**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Cloud Deployment**
-- ⚡ Fun fact: **I debug more than I code 😆**
+- ☁️ Aspiring **Cloud & DevOps Engineer** with a strong foundation in full-stack development  
+- 💻 Building and deploying **scalable applications using modern cloud infrastructure**  
+- 🔧 Hands-on experience with **CI/CD pipelines, containerization, and cloud deployments**  
+- 🌱 Currently focusing on **DevOps practices, system design, and automation**  
+- 🚀 Passionate about **performance, reliability, and deployment workflows**  
+- ⚡ Fun fact: *I break things just to learn how to fix them better 😄*
 
 ---
 
-### 🧠 Skills & Technologies
+### 🧠 Core Skills
+
+#### 💻 Development
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -31,19 +31,28 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black" />
 </p>
 
 ---
 
-### 🛠 Tools
+### ⚙️ DevOps Focus Areas
+- 🔄 Building **CI/CD pipelines** using Cloud Build / GitHub Actions  
+- 📦 Containerizing applications with **Docker**  
+- ☁️ Deploying scalable services using **Google Cloud Run**  
+- 🔐 Managing environment variables and secrets  
+- 📊 Monitoring, debugging, and improving deployment reliability  
+
+---
+
+### 🛠 Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" />
 </p>
 
 ---
@@ -59,6 +68,13 @@
 
 ---
 
+### 🚀 Current Focus
+- 🚧 Strengthening **DevOps fundamentals (CI/CD, Docker, Cloud)**  
+- 📦 Building **production-ready deployments**  
+- 📚 Preparing for **Google Cloud certifications**
+
+---
+
 ### 🔗 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/mathialagan-t-1a3647265/">
@@ -71,5 +87,5 @@
 
 ---
 
-### 🚀 Quote
-> *"Code, Break, Fix, Repeat — that's how developers grow."*
+### 💡 Quote
+> *"Build it. Break it. Automate it. Scale it."*
