@@ -60,26 +60,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🏋️ ZENITH – Habit Tracker Application
-> React · Node.js · Express · MongoDB Atlas · Docker · Cloud Run · Cloud Build · Firebase · Cloud Scheduler
-
-Built a full-stack habit tracking app end-to-end — from designing the React UI to containerizing the Node/Express backend with Docker and deploying it on Google Cloud Run. Automated build-and-deploy via a Cloud Build + GitHub CI/CD pipeline. Configured Cloud Scheduler for automated reminders and hosted the frontend on Firebase Hosting.
-
-**[Live](https://your-live-link.com) | [GitHub](https://github.com/Mathialagan23)**
-
----
-
-#### ✈️ Travel Management Platform
-> React.js · Node.js · Express · MongoDB Atlas · Docker · Cloud Run · Cloud Build · Firebase
-
-Full-stack MERN travel platform with secure authentication, API-driven client-server communication, and persistent data via MongoDB Atlas. Containerized with Docker, deployed on Cloud Run via automated `cloudbuild.yaml` pipeline, and frontend hosted on Firebase Hosting. Resolved real production issues around container startup and deployment stability.
-
-**[Live](https://your-live-link.com) | [GitHub](https://github.com/Mathialagan23)**
-
----
-
 ### ⚙️ DevOps Focus Areas
 
 - 🔄 Building **CI/CD pipelines** using Google Cloud Build & GitHub
@@ -87,6 +67,16 @@ Full-stack MERN travel platform with secure authentication, API-driven client-se
 - ☁️ Deploying serverless, scalable services on **Google Cloud Run**
 - 🔐 Managing **environment variables, IAM roles, and secrets** in GCP
 - 📊 Debugging and improving **deployment reliability** in production
+
+---
+
+### 🌐 Portfolio
+
+<p align="center">
+  <a href="https://mathisportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-mathisportfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -117,6 +107,9 @@ Full-stack MERN travel platform with secure authentication, API-driven client-se
   </a>
   <a href="mailto:mathialagan823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mathisportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?logo=netlify&logoColor=white" />
   </a>
 </p>
 
